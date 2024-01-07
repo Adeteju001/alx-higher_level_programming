@@ -1,1 +1,6 @@
-0x02. Python - import & modules
+0x02. Python - import & module
+0. Import a simple function from a simple files
+1. My first toolbox!
+2. How to make a script dynamic!
+3. Infinite addition
+4. Who are you?
